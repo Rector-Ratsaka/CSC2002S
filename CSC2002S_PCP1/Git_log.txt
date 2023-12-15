@@ -1,0 +1,41 @@
+commit 2515c728f7ab666a1051938a68fdc079fb558d31
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Thu Aug 10 15:41:58 2023 +0200
+
+    added/using Rosenbrock function for validation
+
+commit 1f8127423edd2eb336407ccc1d0e851e861bb3fb
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Sun Aug 6 20:36:29 2023 +0200
+
+    added comments
+
+commit fe5c5b67cca247f4a1daf080aa3727b4e6d5e07b
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Sun Aug 6 19:46:34 2023 +0200
+
+    fixed finder and minimum variables
+
+commit f69b8b9fff2292b37869a0fb0155fdd57a3085b6
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Sat Aug 5 22:54:08 2023 +0200
+
+    Program runs well with some errors relating to finder
+
+commit 75ae941fc675c9a313cdf860cd8688b69d09be83
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Fri Aug 4 11:07:41 2023 +0200
+
+    Fixes on Makefile(dependency), working fine
+
+commit f4cb42b9e2ededa31de9e4bc8c487dfecaead030
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Fri Aug 4 09:26:21 2023 +0200
+
+    Creating MonteCarloMinimizationParalle and SearchParallel classes
+
+commit 7f2dff275d8deb448e4881782acc95ee983b193d
+Author: Rector Ratsaka <rtsrec001@myuct.ac.za>
+Date:   Tue Aug 1 23:54:35 2023 +0200
+
+    initial commit
